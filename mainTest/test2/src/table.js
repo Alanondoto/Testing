@@ -18,5 +18,5 @@ const Table = ( {data} ) => {
       </table>
     );
   };
-  
-  export default Table;
+
+export default Table;
